@@ -27,7 +27,7 @@ To use and customize this dashboard for your own e-commerce business, you'll nee
 ## Getting Started
 
 1. **Download or Clone the Repository**: Download or clone the repository containing the Power BI project files to your local machine.
-2. **Connect Data Source**: Connect Power BI Desktop to your e-commerce sales data source. You may need to import tables or write SQL queries to extract the required data.
+2. **Connect Data Source**: Connect Power BI Desktop to your e-commerce sales data source.
 3. **Edit Reports**: Customize the existing reports or create new reports based on your specific requirements. You can modify visualizations, add filters, or create calculated columns and measures as needed.
 
 
